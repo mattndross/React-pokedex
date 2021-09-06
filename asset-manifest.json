@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-pokedex/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/React-pokedex/static/js/main.e3b65b8a.chunk.js",
+    "main.js.map": "/React-pokedex/static/js/main.e3b65b8a.chunk.js.map",
+    "runtime-main.js": "/React-pokedex/static/js/runtime-main.f193a968.js",
+    "runtime-main.js.map": "/React-pokedex/static/js/runtime-main.f193a968.js.map",
+    "static/js/2.8b934147.chunk.js": "/React-pokedex/static/js/2.8b934147.chunk.js",
+    "static/js/2.8b934147.chunk.js.map": "/React-pokedex/static/js/2.8b934147.chunk.js.map",
+    "static/js/3.a9c57bd8.chunk.js": "/React-pokedex/static/js/3.a9c57bd8.chunk.js",
+    "static/js/3.a9c57bd8.chunk.js.map": "/React-pokedex/static/js/3.a9c57bd8.chunk.js.map",
+    "index.html": "/React-pokedex/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/React-pokedex/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8b934147.chunk.js.LICENSE.txt": "/React-pokedex/static/js/2.8b934147.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f193a968.js",
+    "static/js/2.8b934147.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e3b65b8a.chunk.js"
+  ]
+}
